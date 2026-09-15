@@ -12,6 +12,22 @@
         <option name="myGradleHome" value="" />
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/inventory-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/inventory-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/notification-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/notification-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/pharmacy-service" />
         <option name="modules">
           <set>
